@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<url>
+  <loc>https://www.popcorntales.com/</loc>
+  <lastmod>2020-08-03T11:15:36.190Z</lastmod>
+</url>
+
+</urlset>
+<!-- for(var i=0;i<movieList.length;i++){
+    var obj = "<url>\n<loc>" + "https://www.popcorntales.com/"+movieList[i].title+"</loc>\n"+
+  "<lastmod>"+new Date().toISOString()+"</lastmod>\n"+
+"</url>"
+;console.log(obj);} -->
